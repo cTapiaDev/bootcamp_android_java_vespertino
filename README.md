@@ -7,7 +7,7 @@
 - [Clase 13 - Ejercicios de Ciclos en Java](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase13)
 - [Clase 14 - Arreglos, Matrices y Listas en Java](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase14)
 - [Clase 15 - Conjuntos, Mapas y Ejercicio Listas](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase15)
-- [Clase 16 - Estándares de Codificación](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase16) - [Ejercicio](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/claseestandares16)
+- [Clase 16 - Estándares de Codificación](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase16) - [Ejercicio Estándares](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/claseestandares16)
 - [Clase 17 - POO, Clases, Objetos, Getters && Setters](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase17)
 
 --------
