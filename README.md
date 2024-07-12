@@ -9,6 +9,7 @@
 - [Clase 15 - Conjuntos, Mapas y Ejercicio Listas](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase15)
 - [Clase 16 - Estándares de Codificación](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase16) - [Ejercicio Estándares](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/claseestandares16)
 - [Clase 17 - POO, Clases, Objetos, Getters && Setters](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase17)
+- [Clase 18 - Herencias](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase18/herencias) - [Interfaces](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase18/interfaces)
 
 --------
 ### Extras
