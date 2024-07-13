@@ -20,6 +20,28 @@ public class Alumno extends Persona {
         this.carrera = carrera;
     };
 
+    public int getIdAlumno() {
+        return idAlumno;
+    }
+
+    public void setIdAlumno(int idAlumno) {
+        this.idAlumno = idAlumno;
+    }
+
+    public String getCarrera() {
+        return carrera;
+    }
+
+    public void setCarrera(String carrera) {
+        this.carrera = carrera;
+    }
+    
+    @Override
+    public void mostrarDatos() {
+        super.mostrarDatos();
+        System.out.println("Alumno");
+    }
+
     @Override
     public String toString() {
         return "Alumno{" 
@@ -27,11 +49,5 @@ public class Alumno extends Persona {
                 + ", carrera=" + carrera 
                 + "} " + super.toString();
     }
-    
-    
-
-    
-    
-    
-    
+     
 }

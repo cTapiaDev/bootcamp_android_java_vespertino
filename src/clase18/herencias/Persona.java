@@ -10,7 +10,8 @@ public class Persona implements IDatos {
     private int edad;
     
     // Constructores
-    public Persona() {};
+    public Persona() {
+    };
     
     public Persona(
             String nombre,
@@ -18,12 +19,45 @@ public class Persona implements IDatos {
             String rut,
             int edad
     ) {
+        this();
         this.nombre = nombre;
         this.apellido = apellido;
         this.rut = rut;
         this.edad = edad;
     }
-    
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public String getApellido() {
+        return apellido;
+    }
+
+    public void setApellido(String apellido) {
+        this.apellido = apellido;
+    }
+
+    public String getRut() {
+        return rut;
+    }
+
+    public void setRut(String rut) {
+        this.rut = rut;
+    }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+
     // Metodo creado
     @Override
     public void mostrarDatos() {
