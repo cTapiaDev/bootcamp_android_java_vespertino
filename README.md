@@ -12,6 +12,7 @@
 - [Clase 18 - Herencias](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase18/herencias) - [Interfaces](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase18/interfaces)
 - [Clase 19 - Polimorfismo](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase19/polimorfismo) - [Clases Abstractas](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase19/claseAbstracta) - [Intercambio de Objetos](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase19/intercambioObjetos)
 - [Clase 20 - Principios SOLID](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase20)
+- [Clase 21 - Diagrama de Clases](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/blob/main/src/clase21/DiagramaDeClase21.png)
 
 --------
 ### Extras
