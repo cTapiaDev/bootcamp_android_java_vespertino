@@ -14,6 +14,7 @@
 - [Clase 20 - Principios SOLID](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase20)
 - [Clase 21 - Diagrama de Clases](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/blob/main/src/clase21/DiagramaDeClase21.png)
 - [Clase 22 - Ejercicio Integrador POO - Ordenes de Computadoras](https://github.com/cTapiaDev/orden_de_computadoras_sistema)
+- [Clase 23 - Javadoc](https://github.com/cTapiaDev/orden_de_computadoras_sistema/blob/main/src/modelo/DispositivoEntrada.java)
 
 --------
 ### Extras
