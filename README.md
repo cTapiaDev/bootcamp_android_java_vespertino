@@ -15,7 +15,7 @@
 - [Clase 21 - Diagrama de Clases](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/blob/main/src/clase21/DiagramaDeClase21.png)
 - [Clase 22 - Ejercicio Integrador POO - Ordenes de Computadoras](https://github.com/cTapiaDev/orden_de_computadoras_sistema)
 - [Clase 23 - Javadoc](https://github.com/cTapiaDev/orden_de_computadoras_sistema/blob/main/src/modelo/DispositivoEntrada.java)
-- [Clase 24 - Ejercicio Integrador Catalogo de Peliculas](https://github.com/cTapiaDev/catalogo_peliculas_vespertinol)
+- [Clase 24 & 25 - Ejercicio Integrador Catalogo de Peliculas](https://github.com/cTapiaDev/catalogo_peliculas_vespertinol)
 
 --------
 ### Extras
