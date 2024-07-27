@@ -17,6 +17,7 @@
 - [Clase 23 - Javadoc](https://github.com/cTapiaDev/orden_de_computadoras_sistema/blob/main/src/modelo/DispositivoEntrada.java)
 - [Clase 24 & 25 - Ejercicio Integrador Catalogo de Peliculas](https://github.com/cTapiaDev/catalogo_peliculas_vespertinol)
 - [Clase 26 - Ejercicio Integrador Sistema PoS](https://github.com/cTapiaDev/ejercicio_point_of_sale_vespertino)
+- [Clase 27 - Test Unitarios POS](https://github.com/cTapiaDev/test_pos_system)
 
 --------
 ### Extras
