@@ -18,6 +18,7 @@
 - [Clase 24 & 25 - Ejercicio Integrador Catalogo de Peliculas](https://github.com/cTapiaDev/catalogo_peliculas_vespertinol)
 - [Clase 26 - Ejercicio Integrador Sistema PoS](https://github.com/cTapiaDev/ejercicio_point_of_sale_vespertino)
 - [Clase 27 - Test Unitarios POS](https://github.com/cTapiaDev/test_pos_system)
+- [Clase 28 - Ejercicios](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase28/detenertiempo)
 
 --------
 ### Extras
