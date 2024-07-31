@@ -20,7 +20,6 @@
 - [Clase 27 - Test Unitarios POS](https://github.com/cTapiaDev/test_pos_system)
 - [Clase 28 - Ejercicios](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase28/detenertiempo)
 - [Clase 29 - Ejercicios de lógica](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/clase29)
-
 - [Sprint M2](https://github.com/cTapiaDev/bootcamp_android_java_vespertino/tree/main/src/SprintM2)
 
 --------
